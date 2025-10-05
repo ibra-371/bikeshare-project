@@ -196,7 +196,8 @@ def main():
         if restart.lower() != 'yes':
             break
 
-# End of bikeshare program
+# Script execution starts here
+
 
 if __name__ == "__main__":
     main()
