@@ -1,5 +1,8 @@
 ## Project Purpose
 This project explores US bikeshare data using Python.
+## Data Sources
+The data files used include Chicago, New York City, and Washington datasets.
+
 
 
 # Bikeshare Data Analysis Project
