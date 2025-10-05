@@ -2,6 +2,8 @@ import time
 import pandas as pd
 import numpy as np
 
+# Refactored version for Udacity Git project
+
 CITY_DATA = {
     'chicago': 'chicago.csv',
     'new york city': 'new_york_city.csv',
@@ -194,6 +196,7 @@ def main():
         if restart.lower() != 'yes':
             break
 
+# End of bikeshare program
 
 if __name__ == "__main__":
     main()
